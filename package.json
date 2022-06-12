@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "rollup-plugin-terser": "^7.0.2"
   },
   "devDependencies": {
     "parcel": "^2.6.0",
